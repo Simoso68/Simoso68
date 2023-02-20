@@ -10,6 +10,7 @@
 ## One of the founders of the BLUEAMETHYST project
 
 → https://github.com/BLUEAMETHYST-Studios
+
 → http://github.blueamethyst.me
 
 #### sleeping all the time 💤
