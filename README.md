@@ -1,5 +1,7 @@
 # Hello, I'm Simoso68 👋
 
+## Languages
+
 - Batchfile
 - Python
 - HTML
