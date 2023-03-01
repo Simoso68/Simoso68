@@ -11,6 +11,6 @@
 
 → https://github.com/BLUEAMETHYST-Studios
 
-→ http://github.blueamethyst.me
+→ http://blueamethyst.me
 
 #### sleeping all the time 💤
