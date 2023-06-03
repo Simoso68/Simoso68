@@ -2,10 +2,12 @@
 
 ## Languages
 
-- Batchfile
 - Python
 - HTML
 - CSS
+- Batchfile
+- Powershell
+- Bash
 
 ## One of the founders of the BLUEAMETHYST project
 
