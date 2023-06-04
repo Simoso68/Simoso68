@@ -14,7 +14,7 @@
 - My Desktop (Main Computer): Fedora 38 Workstation and Windows 10 Dualboot
 - My Laptop: Fedora 38 Workstation
 
-*(not using Arch btw)
+*(not using Arch btw)*
 
 ## One of the founders of the BLUEAMETHYST project
 
