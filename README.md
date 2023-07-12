@@ -19,8 +19,7 @@
 ## Also check out:
 
 - [DinoMarlir](https://github.com/DinoMarlir)
-- [Bubble](https://blueamethyst.me/bubble) *(actually looks good on phone)*
-- [Copra](https://github.com/BLUEAMETHYST-Studios/copra) *(is in early development and very buggy)*
+- ☕ If you need it: [Get your coffee](https://github.com/Simoso68/i-need-coffee)
 
 ## One of the founders of the BLUEAMETHYST project
 
