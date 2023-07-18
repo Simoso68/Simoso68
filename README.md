@@ -8,6 +8,7 @@
 - Batchfile
 - Powershell
 - Bash
+- Lua
 
 ## Operating Systems
 
