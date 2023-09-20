@@ -5,6 +5,7 @@
 - Python
 - HTML
 - CSS
+- Javascript
 - Batchfile
 - Powershell
 - Bash
