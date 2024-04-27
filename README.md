@@ -1,13 +1,16 @@
 # Hello, I'm Simoso68 👋
 
-## Languages
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=Simoso68&show_icons=true&bg_color=00000000" />
+<br>
+<h3>If you wanna increase these stats, consider giving a star or contributing.</h3>
+</div>
 
-- Python
-- HTML
-- CSS
-- Javascript
-- Batchfile
-- Bash
+## What are my skills?
+
+<div align=center>
+<img src=https://skillicons.dev/icons?i=github,git,linux,bash,md,vscode,python,html,css,javascript&perline=5>
+</div>
 
 ## Operating Systems
 
