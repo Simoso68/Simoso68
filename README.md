@@ -20,11 +20,7 @@
 
 - [DinoMarlir](https://github.com/DinoMarlir)
 - ☕ If you need it: [Get your coffee](https://github.com/Simoso68/i-need-coffee)
-
-## One of the founders of the BLUEAMETHYST project
-
-→ https://github.com/BLUEAMETHYST-Studios
-
-→ http://blueamethyst.me
+- ✨ Backend servers made with Python: [Start creating them](https://github.com/Simoso68/backpipe)
+- 🗃️ Fun custom Lootbox project (are free of course): [Open some](https://simoso68.github.io/mineboxes) or [Look at the source](https://github.com/Simoso68/mineboxes)
 
 #### sleeping all the time 💤
