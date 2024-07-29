@@ -14,7 +14,7 @@
 
 ## Operating Systems
 
-- My Desktop (Main Computer): Fedora 39 Workstation and Windows 10 Dualboot
+- My Desktop (Main Computer): Fedora 40 Workstation and Windows 10 Dualboot
 - My Laptop: Fedora 38 Workstation
 
 *(not using Arch btw)*
