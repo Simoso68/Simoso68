@@ -9,7 +9,7 @@
 ## What are my skills?
 
 <div align=center>
-<img src=https://skillicons.dev/icons?i=github,git,linux,bash,md,vscode,python,html,css,javascript&perline=5>
+<img src=https://skillicons.dev/icons?i=github,git,linux,bash,md,raspberrypi,vscode,python,discord,html,css,javascript&perline=6>
 </div>
 
 ## Operating Systems
